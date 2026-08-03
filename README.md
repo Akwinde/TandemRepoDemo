@@ -3,6 +3,12 @@
 ### Heading2
 #### Heading 3
 
+**Bold Text**
+
+*Italic Text*
+
+***Bold and Italic***
+
 This is for demonstration purpose.
 Hi there.
 
