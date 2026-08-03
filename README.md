@@ -14,8 +14,11 @@
 * Java
 
 1. Install Git
-2. Create Repository
-3. Push code
+   - Go to git downloads
+   - Download git as per the OS
+3. Create Repository
+   -Specify public or private
+5. Push code
 
 This is for demonstration purpose.
 Hi there.
