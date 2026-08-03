@@ -13,6 +13,10 @@
 * Python
 * Java
 
+1. Install Git
+2. Create Repository
+3. Push code
+
 This is for demonstration purpose.
 Hi there.
 
