@@ -20,6 +20,9 @@
    -Specify public or private
 5. Push code
 
+Use the 'git clone' command.
+
+
 This is for demonstration purpose.
 Hi there.
 
